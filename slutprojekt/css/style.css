@@ -4,6 +4,10 @@
   padding: 0;
 }
 
+img {
+  display: block;
+}
+
 body {
   font-family: "Noto Sans", sans-serif;
   background-color: white;
@@ -104,8 +108,19 @@ nav a:hover {
   margin-top: 10px;
 }
 
+.contact-info a {
+  text-decoration: none;
+  color: black;
+}
 
+.contact-info a:hover {
+  text-decoration: underline;
 
+}
+
+.content img {
+  max-width: 100%;
+}
 
 @media (min-width: 600px){
 .start h2 {
