@@ -15,7 +15,6 @@ body {
 }
 
 a {
-  color: blue;
   text-decoration: none;
 }
 
@@ -30,7 +29,7 @@ section {
 }
 
 header {
-  background-color: blue;
+  background-color: goldenrod;
   color: white;
   padding: 15px 20px;
   top: 0;
@@ -75,7 +74,7 @@ nav a:hover {
 }
 
 .learnbutton {
-  background-color: white;
+  background-color: goldenrod;
   color: black;
   font-weight: bold;
   margin-top: 200px;
@@ -92,7 +91,7 @@ nav a:hover {
 }
 
 .content h2 {
-  color: blue;
+  color: goldenrod;
   margin-top: 20px;
   font-size: 35px;
 }
